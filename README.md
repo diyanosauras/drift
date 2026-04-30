@@ -5,8 +5,6 @@ A slow, dark bedtime space game with hidden sleep science.
 
 > A tiny browser-based bedtime game set in space. Float through the dark, meet a small alien, discover hidden activities. Sleep science integrated in quietly, with no timers, no scores, just drift.
 
-[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/diyanosauras)
-
 ---
 
 ## ✦ What is this
